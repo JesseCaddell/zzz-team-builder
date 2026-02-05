@@ -64,12 +64,6 @@ Thumbs.db
 logs/
 *.log
 
-# ===============================
-# SQLite / runtime data
-# ===============================
-*.sqlite
-*.sqlite3
-*.db
 
 # ===============================
 # Temporary / misc
